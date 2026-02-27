@@ -1,0 +1,21 @@
+# Pasta de build
+build/
+
+# Arquivos objeto
+*.o
+
+# Bibliotecas estáticas
+*.a
+
+# Bibliotecas dinâmicas
+*.so
+*.dll
+*.dylib
+
+# Executáveis
+*.out
+*.exe
+
+# Arquivos temporários
+*.swp
+*~
